@@ -34,7 +34,6 @@ sections:
         style: secondary
       - elementId: ''
         label: lorem-ipsum
-        altText: lorem-ipsum
         url: '#'
         showIcon: false
         icon: arrowLeft
