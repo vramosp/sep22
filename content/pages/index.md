@@ -84,7 +84,7 @@ sections:
           altText: Isabelle Parks
   - type: CtaSection
     variant: variant-b
-    colors: colors-c
+    colors: colors-d
     width: wide
     height: short
     textAlign: left
