@@ -86,7 +86,7 @@ sections:
   - type: CtaSection
     variant: variant-b
     colors: colors-e
-    width: wide
+    width: full
     height: short
     textAlign: left
     contentAlignHoriz: center
