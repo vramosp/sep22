@@ -36,7 +36,7 @@ sections:
         label: lorem-ipsum
         altText: lorem-ipsum
         url: '#'
-        showIcon: true
+        showIcon: false
         icon: arrowLeft
         iconPosition: right
         style: link
