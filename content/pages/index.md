@@ -43,7 +43,7 @@ sections:
     feature:
       type: ImageBlock
       url: /images/desmond-eagle.jpg
-      altText: Image alt text
+      altText: Orange rules!
       caption: Image caption
       opacity: 80
   - type: FeaturedPostsSection
