@@ -56,7 +56,7 @@ sections:
     contentAlignVert: middle
     bottomGap: none
     topGap: none
-    title: Blog Posts
+    title: All I love to write
     textAlign: center
     posts:
       - content/pages/blog/post-two.md
