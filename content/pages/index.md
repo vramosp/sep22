@@ -169,7 +169,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
-      submitLabel: Send Message
+      submitLabel: Send
   - elementId: ''
     colors: colors-a
     width: wide
