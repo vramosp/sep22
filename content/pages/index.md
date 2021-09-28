@@ -33,7 +33,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: secondary
       - elementId: ''
-        label: lorem-ipsum
+        label: Click me
         url: '#'
         showIcon: false
         icon: arrowLeft
