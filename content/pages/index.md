@@ -37,6 +37,7 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
+      opacity: 80
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
