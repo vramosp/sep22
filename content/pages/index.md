@@ -44,7 +44,7 @@ sections:
       type: ImageBlock
       url: /images/desmond-eagle.jpg
       altText: Orange rules!
-      caption: Image caption
+      caption: Orange rules
       opacity: 80
   - type: FeaturedPostsSection
     variant: variant-b
